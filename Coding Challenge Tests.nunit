@@ -1,0 +1,8 @@
+﻿<NUnitProject>
+  <Settings activeconfig="Debug" />
+  <Config name="Debug" binpathtype="Auto">
+    <assembly path="test\StilesRecruitment.Infrastructure.Tests\bin\Debug\StilesRecruitment.Infrastructure.Tests.dll" />
+    <assembly path="test\StilesRecruitment.Services.Tests\bin\Debug\StilesRecruitment.Services.Tests.dll" />
+  </Config>
+  <Config name="Release" binpathtype="Auto" />
+</NUnitProject>
